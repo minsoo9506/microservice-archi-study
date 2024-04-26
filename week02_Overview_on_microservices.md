@@ -67,6 +67,8 @@
 
 - 그런 경우 아래와 같이 orchestraion 을 사용하는 것도 방법
 - 아래 그림은 localized mediator 를 사용한 모습
+- 이 경우는 edge in, out 의 갯수가 늘어나서 coupling 은 더 늘어난다고 할 수 있음 (coupling 에 대한 정의와 관련)
+- 그래도 첫번째 service 와 관련한 complexity 는 단순해짐
 
 ![img](./images/FSA/17_10.png)
 
