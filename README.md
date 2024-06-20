@@ -32,9 +32,10 @@
 2. Overview on microservices
 3. Domain driven design (DDD)
 4. Some implementation patterns
-5. Microservice communication
-6. Transactions in distributed system
-7. Data architecture
-8. Build and deployment
-9. Testing and monitoring
-10. Organization and architecture
+5. Dependency Injection
+6. Data architecture
+7. Transactions in distributed system
+8. Microservice communication
+9. Build and deployment
+10. Testing and monitoring
+11. Organization and architecture
