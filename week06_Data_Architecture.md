@@ -62,7 +62,9 @@
 - sorted by key 해서 효율성을 높인다.
 
 ![img](./images/DDIA/3_4.png)
+
 - 특정 key 찾기 위해서 모든 key 들의 index 를 갖고 있을 필요가 없다. 일부 key 들의 offset 을 알면 sorted key 인 상태이므로 범위를 좁혀서 key 를 쉽게 찾을 수 있다.
+
 ![img](./images/DDIA/3_5.png)
 
 ### B-Trees
